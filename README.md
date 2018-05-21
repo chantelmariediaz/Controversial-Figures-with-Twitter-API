@@ -1,5 +1,5 @@
 # Twitter-API - Controversial Tweets from Political-Oriented Figures
-Using Twitter API and Python To Analyze Tweets from:
+Using Twitter API and Python To Find Similarities in Tweets from:
 
 Donald Trump
 
