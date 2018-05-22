@@ -8,7 +8,7 @@ Islam Laib
 
 NLTK, Sklearn, Mpld3, Scipy
 
-## Using Python-Twitter To Find Similarities in Tweets from:
+## Using Python-Twitter to find similarities in tweets from:
 
 Donald Trump
 
